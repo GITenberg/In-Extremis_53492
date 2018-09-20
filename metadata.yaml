@@ -1,5 +1,8 @@
 _repo: In-Extremis_53492
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53492-h/images/cover.jpg
 creator:
   author:
     agent_name: Melati, van Java
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47398'
     url: http://www.gutenberg.org/2009/agents/47398
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53492#In-Extremis
 gutenberg_issued: '2016-11-10'
 gutenberg_type: Text
 identifiers:
